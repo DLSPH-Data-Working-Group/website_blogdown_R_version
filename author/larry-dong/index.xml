@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Larry Dong | Health Data Working Group</title>
+    <link>/author/larry-dong/</link>
+      <atom:link href="/author/larry-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Larry Dong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/larry-dong/avatar_hue065cffd25e179e564ae1ee0cb3e96d1_456503_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Larry Dong</title>
+      <link>/author/larry-dong/</link>
+    </image>
+    
+  </channel>
+</rss>
