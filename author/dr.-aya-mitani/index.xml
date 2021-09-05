@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Aya Mitani | Health Data Working Group</title>
-    <link>https://ayamitani.github.io/</link>
+    <link>/author/dr.-aya-mitani/</link>
       <atom:link href="/author/dr.-aya-mitani/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Aya Mitani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Health Data Working Group</copyright>
     <image>
       <url>/author/dr.-aya-mitani/avatar_huaba801e43957826a26b44d1312bb6839_2424684_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Aya Mitani</title>
-      <link>https://ayamitani.github.io/</link>
+      <link>/author/dr.-aya-mitani/</link>
     </image>
     
   </channel>
