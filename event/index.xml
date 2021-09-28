@@ -33,7 +33,8 @@ Further event details, including page elements such as image galleries, can be a
       <link>/event/tidyverse/</link>
       <pubDate>Mon, 27 Sep 2021 13:00:00 +0000</pubDate>
       <guid>/event/tidyverse/</guid>
-      <description>&lt;!-- Slides can be added in a few ways:
+      <description>&lt;p&gt;We thank Nnenna for the workshop and all participants for attending! The links to the code, slides and recording are available on this webpage. See you in a month!&lt;/p&gt;
+&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
