@@ -5,7 +5,7 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Workshops</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu29da55eefe6fa77de03c74319e711634_65903_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Workshops</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Introduction to GitHub</title>
       <link>/event/github-intro/</link>
-      <pubDate>Wed, 20 Oct 2021 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Oct 2021 13:00:00 +0000</pubDate>
       <guid>/event/github-intro/</guid>
       <description>&lt;p&gt;More to come soon, stay tuned!&lt;/p&gt;
 &lt;!-- Slides can be added in a few ways:
