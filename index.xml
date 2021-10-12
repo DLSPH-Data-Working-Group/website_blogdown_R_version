@@ -49,10 +49,10 @@ Further event details, including page elements such as image galleries, can be a
       <link>/resources/anaconda/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/resources/anaconda/</guid>
-      <description>&lt;p&gt;Here is a cheatsheet in using Anaconda with some of my personal preferences that I have retained. If you do follow this, &lt;em&gt;please&lt;/em&gt; let me know if something is not working correctly!&lt;/p&gt;
+      <description>&lt;p&gt;Here is an Anaconda cheatsheet that contains some personal preferences that we have retained. If you do follow this, &lt;em&gt;please&lt;/em&gt; let us know if something is not working correctly!&lt;/p&gt;
 &lt;img src=&#34;anaconda.jpg&#34; width=65%&gt;
 &lt;h1 id=&#34;what-is-anaconda&#34;&gt;What is Anaconda?&lt;/h1&gt;
-&lt;p&gt;Simply put, Anaconda is an open-source package management system for Python. One of its most popular applications, Jupyter, is commonly used for data science related projects. In this article, I have tried to detail the steps from creating a virtual environment in Anaconda to using it in your Jupyter notebooks.&lt;/p&gt;
+&lt;p&gt;Simply put, Anaconda is an open-source package management system for Python. One of its most popular applications, Jupyter, is commonly used for data science related projects. In this article, we detail the steps from creating a virtual environment in Anaconda to using it in your Jupyter notebooks.&lt;/p&gt;
 &lt;h3 id=&#34;installing-anaconda&#34;&gt;Installing Anaconda&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Go to the Anaconda website &lt;a href=&#34;https://www.anaconda.com/products/individual&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
@@ -105,7 +105,7 @@ which python
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;You should get an output under the following format: &lt;code&gt;SOME_DIRECTORY/YOUR_ENV_NAME/bin/python&lt;/code&gt;. The directory in which your environment is located is simply &lt;code&gt;SOME_DIRECTORY&lt;/code&gt;.&lt;/p&gt;
 &lt;h5 id=&#34;example&#34;&gt;Example&lt;/h5&gt;
-&lt;p&gt;When I run &lt;code&gt;which python&lt;/code&gt; after activating my environment called &lt;code&gt;ml&lt;/code&gt;, I obtain &lt;code&gt;/Users/larry/anaconda3/envs/ml/bin/python&lt;/code&gt;. It follows that the directory where my conda environments are located is &lt;code&gt;Users/larry/anaconda3/envs/&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;When &lt;code&gt;which python&lt;/code&gt; is ran after activating my environment called &lt;code&gt;ml&lt;/code&gt;, we obtain something like &lt;code&gt;/Users/larry/anaconda3/envs/ml/bin/python&lt;/code&gt;. It follows that the directory where my conda environments are located is &lt;code&gt;Users/larry/anaconda3/envs/&lt;/code&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;deleting-your-environment&#34;&gt;Deleting your environment&lt;/h3&gt;
 &lt;p&gt;Once you have located your environment (see above) and found the directory in which your environments are located and that we will call &lt;code&gt;SOME_DIRECTORY&lt;/code&gt;. To delete your environment, run the following commands:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cd SOME_DIRECTORY
