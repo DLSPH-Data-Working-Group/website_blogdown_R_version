@@ -32,7 +32,7 @@ Further event details, including page elements such as image galleries, can be a
       <link>/event/github-intro/</link>
       <pubDate>Mon, 25 Oct 2021 13:00:00 +0000</pubDate>
       <guid>/event/github-intro/</guid>
-      <description>&lt;p&gt;More to come soon, stay tuned!&lt;/p&gt;
+      <description>&lt;p&gt;In this workshop, we introduced the idea of git and basic commands for individual version control (git add, git commit, git push, git pull). There will be a follow-up workshop on how to collaborate with teammates using branching, issues and pull requests. As we intend to have this workshop in person, practice exercises such as merging each other&amp;rsquo;s pull requests can be more fun while working side by side.&lt;/p&gt;
 &lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
