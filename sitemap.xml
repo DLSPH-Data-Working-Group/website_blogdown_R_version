@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-01-24T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/high-performance-computing/</loc>
-    <lastmod>2022-01-24T13:00:00+00:00</lastmod>
+    <lastmod>2022-02-28T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/</loc>
+    <lastmod>2022-02-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/ggplot2/</loc>
+    <lastmod>2022-02-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/high-performance-computing/</loc>
     <lastmod>2022-01-24T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/reproducibility/</loc>

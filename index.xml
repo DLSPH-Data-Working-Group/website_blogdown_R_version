@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Health Data Working Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu29da55eefe6fa77de03c74319e711634_65903_512x512_fill_lanczos_center_3.png</url>
       <title>Health Data Working Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Taking ggplot2 beyond single plots &amp;#58; Maximizing information transfer</title>
+      <link>/event/ggplot2/</link>
+      <pubDate>Mon, 28 Feb 2022 13:00:00 +0000</pubDate>
+      <guid>/event/ggplot2/</guid>
+      <description>&lt;p&gt;In this workshop, we introduced the idea of git and basic commands for individual version control (git add, git commit, git push, git pull). There will be a follow-up workshop on how to collaborate with teammates using branching, issues and pull requests. As we intend to have this workshop in person, practice exercises such as merging each other&amp;rsquo;s pull requests can be more fun while working side by side.&lt;/p&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>High Performance Computing 101</title>
